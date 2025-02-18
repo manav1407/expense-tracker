@@ -1,6 +1,6 @@
 # expense_tracker
 
-A new Flutter project.
+A new Flutter project created with the basics of Lists and theme fundamentals using to store expense in a List and display the graph of the expense.
 
 ## Getting Started
 
